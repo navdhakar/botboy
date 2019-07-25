@@ -6,6 +6,16 @@ you can install twit api as follow.
 
 
 
+make sure you have nodejs installed in your pc.
+
+
+
 in your terminal go to files where your file botboy is
 
 npm install twit --save
+
+
+then in your terminal run node index.js
+
+
+#bot is starting....
