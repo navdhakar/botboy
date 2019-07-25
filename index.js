@@ -30,7 +30,7 @@ screenName = data.users[id].screen_name;
 tweetit();
 }
 }
-var name = 
+
 setInterval(thanx, 1000*5);
   function tweetit(){
       var r = Math.floor(Math.random()*100);
