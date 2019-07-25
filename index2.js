@@ -1,6 +1,3 @@
-// SFPC Bot Workshop
-// Daniel Shiffman
-// https://github.com/shiffman/SFPC-Twitter-Bot-Workshop
 
 // Bot that replies
 
@@ -12,10 +9,10 @@ var Twit = require('twit');
 // Making a Twit object for connection to the API
 
 var T = new Twit({
-  consumer_key:         'xgBSNwD7KzDS1ZPYlAH40tVtl',
-  consumer_secret:      'CjscjEa8JffmvP9hNv53dqdoXNZx6d1OTfhxBbQNJncUSd0ELY',
-  access_token:         '1153520709315883014-FB5y51BQWtX89bwg6sYjXH0KIAcXh2',
-  access_token_secret:  'qYGtVPLOHbcXuh89VyY7CdmHiBO14qqvQGWCvRx5z57WY',
+  consumer_key:         '',
+  consumer_secret:      '',
+  access_token:         '',
+  access_token_secret:  '',
  // timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests.
  // strictSSL:            true,     // optional - requires SSL certificates to be valid.
 })
