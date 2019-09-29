@@ -1,3 +1,4 @@
+//twitter bot by navdeep_dhakar//
 var screenName;
 console.log('bot is started');
 var Twit = require('twit');
